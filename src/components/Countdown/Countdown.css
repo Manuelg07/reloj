@@ -1,0 +1,17 @@
+.contdown{
+    font-weight: 500;
+}
+
+input[type="date" i] {
+    font-family: 'Nunito Sans', sans-serif;
+    padding-inline-start: 1px;
+    cursor: default;
+    overflow: hidden;
+    padding: 15px 23px;
+    margin: 3px;
+    border-radius: 42px;
+    border: 1px solid #adadad;
+    background: #f3f3f3;
+    box-shadow: 19px 19px 53px #d4d4d4, -19px -19px 53px #ffffff;
+
+}
